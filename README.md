@@ -1,9 +1,3 @@
-# Iris_Flower_Species_Prediction
-
-Here's a sample README for your Iris flower species prediction project on GitHub:
-
----
-
 # Iris Flower Species Prediction
 
 This project predicts the species of the Iris flower (Setosa, Versicolor, Virginica) using a machine learning model trained on the famous Iris dataset. The prediction is based on four input features: sepal length, sepal width, petal length, and petal width. The project is implemented in Python using the `sklearn` library and SVM (Support Vector Machine) algorithm.
