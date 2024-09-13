@@ -70,10 +70,3 @@ _Add screenshots of the Gradio interface showing the input fields and predicted 
 - Add more advanced models like Random Forest or Neural Networks.
 - Improve the UI with additional features like data visualization.
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Let me know if you'd like to modify anything!
